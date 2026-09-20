@@ -1,3 +1,5 @@
+https://github.com/amandapaulav/food-promotion
+
 # 🛒 Food Promotion — Full Cycle [GT 4.0]
 
 > Sistema de gestão e promoção de alimentos próximos da validade para mitigação de desperdício em mercados.
