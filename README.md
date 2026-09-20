@@ -1,4 +1,3 @@
-https://github.com/amandapaulav/food-promotion
 
 # 🛒 Food Promotion — Full Cycle [GT 4.0]
 
